@@ -1,8 +1,6 @@
 # WordPress Lab
 
 +++++++++++++++++++++++++++++++++++++++++++++++
-===============================================
-+++++++++++++++++++++++++++++++++++++++++++++++
 
 
 # How To Use
@@ -14,3 +12,12 @@
 
 
 ```git clone https://github.com/h3xploit0x1/WordPress.git```
+
+
+```docker-compose up```
+
+
+```docker ps -a```
+
+
+```docker exec -it $CONTAINER_ID bash```
