@@ -14,6 +14,9 @@
 ```git clone https://github.com/h3xploit0x1/WordPress.git```
 
 
+```cd WordPress```
+
+
 ```docker-compose up```
 
 
